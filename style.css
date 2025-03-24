@@ -1,0 +1,35 @@
+body {
+    background-color: brown;
+}
+.title {
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+.bg {
+    background-color: antiquewhite;
+    width: 100%;
+}
+.block {
+    background-color: white;
+    width: 300px;
+    height: 220px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+.title2 {
+    background-color: black;
+    border-radius: 15px;
+    width: fit-content;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.weight {
+    font-weight: bold;
+}
